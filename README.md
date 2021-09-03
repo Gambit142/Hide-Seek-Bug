@@ -1,1 +1,1 @@
-# Hide-Seek-Bug
+In this file, I am to create a bug in my tst.js file for my partner to debug and filnally create an issue  
